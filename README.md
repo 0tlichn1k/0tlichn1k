@@ -11,11 +11,11 @@ I will be glad to work on your suggestions.🤝</h5><br>
 
 - 🌱 I’m currently learning **Java script, python, web development.**
 
-- 📫 How to reach me *[My E-Mail:0tlichn1k.keeperofthechaos@gmail.com](My E-Mail:0tlichn1k.keeperofthechaos@gmail.com)*
+- 📫 How to reach me *[My E-Mail:0tlichn1k.keeperofthechaos@gmail.com]*
 
 - 👨‍💻 All of my projects are available at *[https://github.com/0tlichn1k](https://github.com/0tlichn1k)*
 
-- 📄 Know about my experiences *[In development](In development)*
+- 📄 Know about my experiences *[In development]*
 
 - ⚡ Fun fact: **I started learning programming when I was 11 years old.**
 
