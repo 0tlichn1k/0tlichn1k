@@ -1,2 +1,2 @@
 # ReadMe
-Something anout me
+Something about me
